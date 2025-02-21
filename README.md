@@ -66,11 +66,11 @@ The program encourages collaboration between frontend and backend learners:
 
 
 ### Lessons Overview
-- Lesson 1: Introduction to Django and Django REST Framework\
-- Lesson 2: Advanced Django Features: Middleware, Signals, and ORM\
-- Lesson 3: Advanced Git Techniques and Workflows\
-- Lesson 4: Containerization with Docker & Kubernetes\
-- Lesson 5: CI/CD Pipelines\
-- Lesson 6: Payment Integration with Chapa API \
-- Lesson 7: Setting Up Background Jobs for Email Notifications \
-- Lesson 8: System Design for Scalable Backend Architectures \
+- Lesson 1: Introduction to Django and Django REST Framework
+- Lesson 2: Advanced Django Features: Middleware, Signals, and ORM
+- Lesson 3: Advanced Git Techniques and Workflows
+- Lesson 4: Containerization with Docker & Kubernetes
+- Lesson 5: CI/CD Pipelines
+- Lesson 6: Payment Integration with Chapa API
+- Lesson 7: Setting Up Background Jobs for Email Notifications
+- Lesson 8: System Design for Scalable Backend Architectures
