@@ -38,7 +38,7 @@ The program covers crucial backend engineering tools and practices, each of whic
 - **Celery & RabbitMQ:** Learn how to manage background tasks using Celery and RabbitMQ. You'll set up asynchronous email notifications to improve system performance and user experience by offloading time-consuming tasks to background workers.
 
 **Lesson 8: System Design for Scalable Backend Architectures**
--**System Design:** Gain an understanding of designing scalable, high-performance backend systems. Explore architecture patterns, microservices, database scaling, and load balancing to handle increasing traffic and maintain high availability.
+- **System Design:** Gain an understanding of designing scalable, high-performance backend systems. Explore architecture patterns, microservices, database scaling, and load balancing to handle increasing traffic and maintain high availability.
 
 ### 2. Challenges & Solutions
 In the program, real-world backend development challenges are presented alongside the implemented solutions:
