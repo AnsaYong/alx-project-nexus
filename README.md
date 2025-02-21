@@ -71,6 +71,6 @@ The program encourages collaboration between frontend and backend learners:
 - Lesson 3: Advanced Git Techniques and Workflows\
 - Lesson 4: Containerization with Docker & Kubernetes\
 - Lesson 5: CI/CD Pipelines\
-- Lesson 6: Payment Integration with Chapa API\
-- Lesson 7: Setting Up Background Jobs for Email Notifications\
-- Lesson 8: System Design for Scalable Backend Architectures\
+- Lesson 6: Payment Integration with Chapa API \
+- Lesson 7: Setting Up Background Jobs for Email Notifications \
+- Lesson 8: System Design for Scalable Backend Architectures \
